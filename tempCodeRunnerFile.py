@@ -1,0 +1,1 @@
+C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\Backup\\diretorio.csv', 'w'
